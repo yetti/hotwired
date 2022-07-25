@@ -69,3 +69,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "stimulus_reflex", "= 3.5.0.pre9"
