@@ -69,5 +69,8 @@ group :development do
   # gem "spring"
 end
 
-
 gem "stimulus_reflex", "= 3.5.0.pre9"
+
+gem "devise", "~> 4.8"
+
+gem "inline_svg", "~> 1.8"
